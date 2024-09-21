@@ -1,10 +1,6 @@
 # nvim_config
 
-personal settings for nvim & tmux, plugins include:
-  lsp
-  completions
-  telescope
-  nvim tmux navigator
+personal settings for nvim & tmux, includes plugins (lsp, completions, telescope, etc)
 
 Todo:
 
